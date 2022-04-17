@@ -23,17 +23,17 @@ The aim of this project is to train an object detection model so that it can ide
 ssd_mobilenet_v2_320x320_coco17_tpu-8
 
 ## Dataset
-### Dataset 1
-  - No Augmentation
+### Dataset 1  
+  - No Augmentation  
 ### Dataset 2
-  - Mosaic Augmentation
-### Dataset 3
-  - Mosaic Augmentation
-  - Cutout Augmentation – 5 boxes with 10% size
-  - Rotation Augmentation – Between - 45° and +45°
+  - Mosaic Augmentation  
+### Dataset 3  
+  - Mosaic Augmentation  
+  - Cutout Augmentation – 5 boxes with 10% size  
+  - Rotation Augmentation – Between - 45° and +45°  
 
 ## APP
-https://developers.google.com/codelabs/tflite-object-detection-android#0
+https://developers.google.com/codelabs/tflite-object-detection-android#0  
 The app is made by following the online tutorial above. Only the pre-set image bar at the bottom is changed from 3 food images to the 6 images from each classes of garbage, and this bar is changed to scrollable since the screen can’t fit 6 images in a row at once.
 ## APK files
 There are two APK files for the APP. 
