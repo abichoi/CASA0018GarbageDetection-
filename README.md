@@ -44,5 +44,5 @@ only_moscia.apk uses the model trained with Dataset 2.
 2. Install it by tapping on the file in your phone
 
 ## Presentation
-More details can be found in the presentation video on Youtube https://www.youtube.com/watch?v=4jwS5hoeEt4
+More details can be found in the presentation video on Youtube https://www.youtube.com/watch?v=4jwS5hoeEt4  
 An APP Demo Video is on YouTube as well https://youtu.be/2uwWVfOIYOM
